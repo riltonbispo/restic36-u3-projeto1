@@ -33,7 +33,6 @@ const renderAgents = (agents: Agent[]) => {
 
     agentImage.addEventListener('mouseenter', () => {
       const gradientColor = '#' + agent.backgroundGradientColors[0]
-      console.log(gradientColor)
       document.documentElement.style.setProperty('--bg-color', gradientColor);
     });
 
