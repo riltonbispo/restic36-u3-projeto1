@@ -9,7 +9,6 @@ Este projeto é uma Wiki de personagens do jogo **Valorant**, onde os usuários 
 - [Como Usar](#como-usar)
 - [Possíveis Melhorias](#possíveis-melhorias)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Sobre o Projeto
 O **Valorant Wiki** é uma aplicação web que apresenta uma coleção de personagens do jogo Valorant, exibindo suas biografias e outras informações relevantes. Este projeto tem como objetivo fornecer uma interface amigável e visualmente agradável para que os fãs do jogo possam acessar rapidamente os detalhes dos personagens.
